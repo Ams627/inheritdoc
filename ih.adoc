@@ -1,0 +1,7 @@
+= Inheritance
+
+== C#
+
+=== What is a protected constructor
+
+
